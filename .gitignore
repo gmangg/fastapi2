@@ -1,0 +1,11 @@
+# Ignore virtual environment so that GitHub doesn’t store thousands of system files
+.venv/
+
+# Ignore Python cache files or hides temporara python
+__pycache__/
+
+# Ignore database file or hides my local database
+database.db
+
+# Ignore local settings or environment files
+.env
